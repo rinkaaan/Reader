@@ -1,0 +1,3 @@
+[submodule "ReaderApi"]
+	path = ReaderApi
+	url = git@github.com:rinkaaan/ReaderApi.git
